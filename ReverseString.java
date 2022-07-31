@@ -1,6 +1,3 @@
-//{ Driver Code Starts
-//Initial Template for Java
-
 import java.util.*;
 import java.io.*;
 import java.lang.*;
@@ -19,10 +16,6 @@ class Driver
         }
     }
 }
-// } Driver Code Ends
-
-//User function Template for Java
-
 class Reverse
 {
     // Complete the function
